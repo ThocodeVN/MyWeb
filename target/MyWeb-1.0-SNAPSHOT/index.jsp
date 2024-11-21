@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>22110227 Nguyễn Duy Thanh</title>
-    <link rel="stylesheet" href="styles/main.css" type="text/css">
     <style>
         /* Temporary inline styles for demonstration */
         body {
